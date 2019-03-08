@@ -1,6 +1,6 @@
-# Parcel boilerplate
+# mmi2-p2019-giboulot
 
-Minimal boilerplate for parcel powered project
+
 
 ## How to use
 
